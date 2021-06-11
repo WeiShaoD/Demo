@@ -1,7 +1,4 @@
 Hello <-c(1,2,3)
-mt <- mtcars
-plot(mt)
-
 library(readr)
 library(ggplot2)
 library(dplyr)
